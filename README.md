@@ -24,29 +24,27 @@ I’m a Diploma in Information Technology student who likes AI beyond the notebo
 <table>
   <tr>
     <td width="50%" valign="top">
-      <br/>
-      <p><strong><a href="https://github.com/AloysiusLimMingZhou/ResearchOps">◆ ResearchOps</a></strong></p>
+      <h3><a href="https://github.com/AloysiusLimMingZhou/ResearchOps">◆ ResearchOps</a></h3>
       <p>AI engineering project for practical, production-minded RAG with LangChain.</p>
       <p><code>RAG</code> <code>LangChain</code> <code>AI Engineering</code></p>
+      <br/>
     </td>
     <td width="50%" valign="top">
-      <br/>
-      <p><strong><a href="https://github.com/AloysiusLimMingZhou/signal-room-interview-coach">◆ Signal Room</a></strong></p>
+      <h3><a href="https://github.com/AloysiusLimMingZhou/signal-room-interview-coach">◆ Signal Room</a></h3>
       <p>A Gemini-first, real-time technical interview coach.</p>
       <p><code>Gemini</code> <code>Realtime AI</code> <code>TypeScript</code></p>
+      <br/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <br/>
-      <p><strong><a href="https://github.com/AloysiusLimMingZhou/EduSign-Bridge">◆ EduSign Bridge</a></strong></p>
+      <h3><a href="https://github.com/AloysiusLimMingZhou/EduSign-Bridge">◆ EduSign Bridge</a></h3>
       <p>AI-powered, real-time bidirectional voice ↔ hand-sign system built for KitaHack 2026.</p>
       <p><code>Multimodal AI</code> <code>Accessibility</code> <code>Dart</code></p>
       <br/>
     </td>
     <td width="50%" valign="top">
-      <br/>
-      <p><strong><a href="https://github.com/AloysiusLimMingZhou/Neural-Network-From-Scratch">◆ Neural Network From Scratch</a></strong></p>
+      <h3><a href="https://github.com/AloysiusLimMingZhou/Neural-Network-From-Scratch">◆ Neural Network From Scratch</a></h3>
       <p>A two-hidden-layer neural network derived from the math and trained on MNIST.</p>
       <p><code>Python</code> <code>NumPy</code> <code>Deep Learning</code></p>
       <br/>
