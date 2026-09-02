@@ -1,0 +1,76 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Aloysius Lim — Neural Interface</title>
+  <desc id="desc">A cyan and magenta neural-network interface for an aspiring AI systems engineer.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#061016"/>
+      <stop offset="0.58" stop-color="#071019"/>
+      <stop offset="1" stop-color="#12091C"/>
+    </linearGradient>
+    <linearGradient id="cyanLine" x1="64" y1="0" x2="1120" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00F5FF" stop-opacity="0"/>
+      <stop offset="0.18" stop-color="#00F5FF"/>
+      <stop offset="0.78" stop-color="#00F5FF"/>
+      <stop offset="1" stop-color="#00F5FF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="840" y1="80" x2="1110" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00F5FF"/>
+      <stop offset="1" stop-color="#FF4ECD"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#75F9FF" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <filter id="glowCyan" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowPink" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="frameClip"><rect x="18" y="18" width="1164" height="324" rx="16"/></clipPath>
+  </defs>
+
+  <rect width="1200" height="360" rx="18" fill="url(#bg)"/>
+  <rect x="18" y="18" width="1164" height="324" rx="16" fill="url(#grid)" stroke="#00F5FF" stroke-opacity="0.18"/>
+  <g clip-path="url(#frameClip)">
+    <ellipse cx="1050" cy="60" rx="290" ry="180" fill="#B026FF" fill-opacity="0.055"/>
+    <ellipse cx="210" cy="350" rx="330" ry="190" fill="#00F5FF" fill-opacity="0.035"/>
+    <path d="M-10 292C220 215 362 344 584 266C787 194 904 235 1215 108" stroke="url(#cyanLine)" stroke-opacity="0.12"/>
+  </g>
+
+  <path d="M48 70V46H72M1128 46H1152V70M48 290V314H72M1128 314H1152V290" stroke="#00F5FF" stroke-width="2"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" letter-spacing="2">
+    <text x="68" y="70" fill="#00F5FF" font-size="13" font-weight="700">NEURAL.PROFILE // 0xA17B-LIM</text>
+    <text x="68" y="94" fill="#7D8B95" font-size="10">IDENTITY NODE · KUALA LUMPUR, MY</text>
+
+    <text x="68" y="190" fill="#F4FAFC" font-family="Inter, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-2">ALOYSIUS</text>
+    <text x="68" y="252" fill="#00F5FF" font-family="Inter, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-2">LIM.</text>
+    <rect x="68" y="277" width="8" height="8" fill="#FF4ECD" filter="url(#glowPink)"/>
+    <text x="88" y="286" fill="#C9D5DB" font-size="12">AI SYSTEMS ENGINEERING · AGENTIC AI · CLOUD / DEVOPS</text>
+  </g>
+
+  <g opacity="0.72" stroke="url(#signal)" stroke-width="1.4">
+    <path d="M828 105L898 68L972 100L1061 65L1127 116L1093 198L1138 265L1045 289L970 250L889 285L842 218L872 160L828 105Z"/>
+    <path d="M898 68L872 160L972 100L970 250L1093 198L1061 65M842 218L970 250L1138 265M872 160L1093 198L1127 116M889 285L872 160" opacity="0.58"/>
+  </g>
+
+  <g fill="#00F5FF" filter="url(#glowCyan)">
+    <circle cx="828" cy="105" r="4"/><circle cx="898" cy="68" r="5"/><circle cx="972" cy="100" r="4"/>
+    <circle cx="872" cy="160" r="6"/><circle cx="842" cy="218" r="4"/><circle cx="970" cy="250" r="5"/>
+    <circle cx="889" cy="285" r="3"/><circle cx="1045" cy="289" r="4"/>
+  </g>
+  <g fill="#FF4ECD" filter="url(#glowPink)">
+    <circle cx="1061" cy="65" r="4"/><circle cx="1127" cy="116" r="5"/><circle cx="1093" cy="198" r="7"/>
+    <circle cx="1138" cy="265" r="4"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <rect x="796" y="303" width="344" height="24" rx="4" fill="#00F5FF" fill-opacity="0.055" stroke="#00F5FF" stroke-opacity="0.16"/>
+    <circle cx="813" cy="315" r="4" fill="#42FFB0"/>
+    <text x="826" y="319" fill="#95A5AE" font-size="9" letter-spacing="1.4">SYSTEM ACTIVE</text>
+    <text x="1008" y="319" fill="#00F5FF" font-size="9" letter-spacing="1.4">BUILD · LEARN · SHIP</text>
+  </g>
+</svg>
