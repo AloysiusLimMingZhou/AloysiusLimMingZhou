@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://aloysiuslim.dev/">
-    <img src="./assets/neural-header.svg" width="100%" alt="Aloysius Lim — AI systems engineering, agentic AI, cloud and DevOps" />
+    <img src="./neural-header.svg" width="100%" alt="Aloysius Lim — AI systems engineering, agentic AI, cloud and DevOps" />
   </a>
 
   <br />
