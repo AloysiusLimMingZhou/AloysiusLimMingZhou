@@ -92,8 +92,4 @@ I’m interested in internships, hackathons, and collaborations around **AI syst
   <a href="https://www.linkedin.com/in/aloysius-lim-ming-zhou/"><strong>LINKEDIN</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/AloysiusLimMingZhou?tab=repositories"><strong>ALL REPOSITORIES</strong></a>
-
-  <br /><br />
-
-  <sub><code>0xA17B · LISTENING</code> &nbsp; // &nbsp; build what matters, instrument what runs.</sub>
 </div>
